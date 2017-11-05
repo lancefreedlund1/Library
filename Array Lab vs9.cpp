@@ -1,8 +1,5 @@
 
 /*******************************
-CSC100AB 39013
-Assignments
-Lab 5 - Arrays
 
 Florin Postelnicu
 
